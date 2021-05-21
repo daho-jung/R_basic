@@ -1,7 +1,7 @@
 # install.packages("ggmap")
 # library(ggmap)
 # library(dplyr)
-# register_google(key ="AIzaSyCcHwEAt_eIkxdA_qNS-rPwUc8WjBzlZN8")
+# register_google(key ="")
 # get_map(location="",
 #         zoom=15,maptype = 'hybrid',
 #         source='google') %>% ggmap()
